@@ -21,6 +21,7 @@ function makeBoard() {
     });
   }
   
+  
   let resetButton = document.querySelector("button");
   
   function reset() {
